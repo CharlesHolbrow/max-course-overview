@@ -13,10 +13,10 @@
 
 # Important Git Commands
 
-`$ git status` outputs state of your current repository
-`$ git add <filename>`
-`$ git commit -m "<description>"`
-`$ git push`
+- `$ git status` outputs state of your current repository
+- `$ git add <filename>`
+- `$ git commit -m "<description>"`
+- `$ git push`
 
 # Goal #1
 
