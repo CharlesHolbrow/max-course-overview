@@ -11,6 +11,13 @@
   - Start with the [MSP Introduction Tutorial](https://docs.cycling74.com/max7/tutorials/01_mspintro). Continue to "How digital Audio Works". Keep going until you have completed [Tutorial 5, review of the basics](https://docs.cycling74.com/max7/tutorials/05_mspbasicchapter05)
   - For working with video [Jitter Tutorial](https://docs.cycling74.com/max7/tutorials/jitindex)
 
+# Important Git Commands
+
+`$ git status` outputs state of your current repository
+`$ git add <filename>`
+`$ git commit -m "<description>"`
+`$ git push`
+
 # Goal #1
 
 Firstd create a github repository for your project called `max-cannon`. Whenever you make a non-trivial change to your max project, create a new commit.
